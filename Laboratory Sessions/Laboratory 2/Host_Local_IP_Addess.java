@@ -2,7 +2,7 @@
 
 import java.net.*;
 
-class Host_IP_Address{
+class Host_Local_IP_Address{
     public static void main(String[] args) throws Exception {
         InetAddress ip = InetAddress.getLocalHost();
         String host = ip.getHostName();
