@@ -5,7 +5,7 @@
 - **ipconfig/all :** It is used to show all the information about your network adapter.The ipconfig /all command is often used to troubleshoot network connection problems.
 
 
-- **netstat :**
+- **netstat :** Displays protocol statistics and information about TCP/IP and UDP connections and ports.
 
 - **hostname :**
 
