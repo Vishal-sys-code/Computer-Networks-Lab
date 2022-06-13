@@ -9,12 +9,12 @@
 
 - **hostname :** Displays the hostname of the computer.
 
-- **ping :**
+- **ping :** Helps to determine the TCP/IP networks' IP address and issues with the network and assists in resolving them.
 
-- **route :**
+- **route :** Allows us to make manual entries into the network routine tables.
 
-- **traceroute :**
+- **traceroute :** Used to determine the path between the 2 connections.
 
-- **arp :**
+- **arp :** Shows the address resolution cache. Contains the destination IP address & MAC address.
 
-- **getmac :**
+- **getmac :** Shows MAC addresses of our network interfaces.
