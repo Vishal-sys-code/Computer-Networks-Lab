@@ -7,7 +7,7 @@
 
 - **netstat :** Displays protocol statistics and information about TCP/IP and UDP connections and ports.
 
-- **hostname :**
+- **hostname :** Displays the hostname of the computer.
 
 - **ping :**
 
