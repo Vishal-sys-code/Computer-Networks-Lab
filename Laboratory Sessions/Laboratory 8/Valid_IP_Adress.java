@@ -29,7 +29,10 @@ class Valid_IP_Address {
                 System.out.println("CLASS B\n");
             else if (a[0] >= 192 && a[0] <= 223)
                 System.out.println("CLASS C\n");
-        } else
+        } 
+        else{
             System.out.println("INVALID IP");
+        }
+        sc.close();
     }
 }
